@@ -1,0 +1,7 @@
+bashwin
+doc
+img
+internet
+pdf
+unix
+word
